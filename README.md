@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TanishkPatodi
 - 👀 I’m interested in computational biology, employing advanced techniques to analyze complex biological systems.
-- 📚 Engaged in the study of Boolean networks for biological systems, while concurrently conducting meta-analysis on transcriptomics data.
-- 💼🔬🖥️ Seeking collaborations on computational projects for solving real-world problem. Let's work together!
+- 📚 Engaged in the study of metabolic networks for Mtb, while concurrently conducting meta-analysis on transcriptomics data.
 - 📫 You can reach me at tanishkpatodi5@gmail.com.
 
 <!---
